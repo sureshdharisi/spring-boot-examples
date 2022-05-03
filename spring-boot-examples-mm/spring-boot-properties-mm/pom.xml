@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.poc.spring.boot</groupId>
+    <artifactId>spring-boot-examples-mm</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>spring-boot-properties-mm</artifactId>
+  <packaging>pom</packaging>
+  <name>Archetype - spring-boot-properties-mm</name>
+  <url>http://maven.apache.org</url>
+  <modules>
+		<module>properties-configuration</module>
+		<module>sping-properties-demo</module>
+	</modules>
+</project>
