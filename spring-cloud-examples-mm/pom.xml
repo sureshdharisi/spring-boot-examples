@@ -16,6 +16,7 @@
 	<modules>
 		<module>spring-cloud-config-server</module>
 		<module>limits-service</module>
+		<module>spring-cloud-currency-exchange</module>
 	</modules>
 	<properties>
 		<java.version>11</java.version>
