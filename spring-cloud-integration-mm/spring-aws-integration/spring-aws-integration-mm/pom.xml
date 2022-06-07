@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   <parent>
 		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-aws-integration-mm</artifactId>
+		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.7.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
